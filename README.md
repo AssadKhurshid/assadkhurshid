@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <em>"Turning data into actionable insights and driving innovation with AI!"</em>
+  <em>"Harnessing AI to decode data, predict outcomes, drive smart solutions!"</em>
 </p>
 
 ---
