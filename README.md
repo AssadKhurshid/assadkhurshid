@@ -1,72 +1,79 @@
-<h1 align="center">
-  👋 Hi there, I'm <span style="color:#36BCF7">Assad Khurshid</span>!
-</h1>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Innovator;Loves+Python%2C+Vision%2C+Time-Series+%26+Diffusion+Models;Always+Learning+%7C+Always+Building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=180&section=header&text=Assad%20Khurshid&fontSize=45&fontColor=ffffff" />
 </p>
 
+<h3 align="center"><strong>AI Developer | Machine Learning Engineer | Data Scientist</strong></h3>
+<p align="center"><em>Building smart systems with data, intelligence, and impact.</em></p>
+
+---
+
+## 🧑‍💻 About Me
+
+Hi, I'm **Assad Khurshid**, a Python-based AI & ML developer focused on real-world applications of artificial intelligence — from predictive analytics to generative design. I thrive at the intersection of:
+
+- 🧠 Machine Learning & Deep Learning
+- ⚡ Energy Forecasting & Smart Grids
+- 🎨 Generative AI (Diffusion Models, StyleGAN)
+- 📊 Data-Driven Decision Systems
+
+I value **clean code**, **scalable architecture**, and **designing intelligent systems that matter**.
+
+---
+
+## 🚧 What I'm Working On
+
+### ⚙️ **Energy Forecasting for Smart Grids**
+> _Predictive models to optimize power demand & supply._
+
+- 📈 Forecasting via **SARIMA**, **Prophet**, **LSTM**
+- 🔄 Adaptive, decentralized models for energy planning
+
+### 🎨 **AI-Generated Design for Prototyping**
+> _Transforming industrial workflows with generative models._
+
+- 🌀 Using **Stable Diffusion**, **StyleGAN**, **ControlNet**
+- 🔧 Auto-generating CAD-friendly 3D product mockups
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,numpy,pandas,sql,docker,aws,azure,linux,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter,opencv,figma" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🔬 **Transformer-based Architectures** (e.g., BERT, LLMs)
+- 🚀 **MLOps** with Docker, CI/CD, and Cloud Deployment
+- 🧑‍🎨 AI tools for design workflows & digital creativity
+
+---
+
+## 📈 GitHub Insights
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Welcome%20to%20My%20World%20of%20AI!&fontSize=40&fontColor=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AssadKhurshid&theme=tokyonight&show_icons=true&count_private=true&hide=prs" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AssadKhurshid&theme=tokyonight" width="420" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
-🎓 **Data Scientist & AI Developer** working at the intersection of **Machine Learning**, **Computer Vision**, and **Generative AI**.  
-🚀 Passionate about turning complex datasets into smart, scalable AI-powered solutions.  
-💡 Current focus: Forecasting energy loads & reimagining design with **Diffusion Models**.
-
----
-
-## 🔬 My Current Focus Areas
-
-### ⚡ Energy Load Forecasting (Smart Grids)
-- Predictive analytics using **SARIMA**, **Prophet**, **LSTM**.
-- Real-time insights for decentralized energy optimization.
-
-### 🧠 Generative AI for Industrial Design
-- Building pipelines with **Diffusion Models** & **StyleGAN**.
-- Automating CAD-compatible 3D design generation.
-
----
-
-## 🧰 My Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikit-learn,sql,docker,aws,azure,github,figma" />
-</p>
-
-> 🧩 Bonus Tools: `Pyomo`, `OpenCV`, `Matplotlib`, `Jupyter`, `Streamlit`, `FastAPI`
-
----
-
-## 🌱 Currently Leveling Up In
-- 🧬 **XGBoost**, **Transformers**, **LangChain**
-- ☁️ **MLOps**, **Model Deployment** on cloud
-- 🎨 **AI for Design Thinking** & Human-AI Collaboration
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssadKhurshid&show_icons=true&theme=radical" alt="Assad's GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AssadKhurshid&theme=radical&hide_border=false" width="400"/>
-</p>
-
----
-
-## 🤝 Let's Connect!
+## 📡 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://github.com/AssadKhurshid">
-    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:assadkhurshid91@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AssadKhurshid">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -78,5 +85,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:36BCF7&height=150&section=footer&text=Danke%20schön!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff" />
 </p>
