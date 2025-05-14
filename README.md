@@ -1,87 +1,85 @@
-<!-- ✨ Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi+I'm+Assad+Khurshid!+👋;AI+Engineer+%7C+Data+Scientist+%7C+ML+Developer;Building+Smart+Solutions+with+Code+%26+Creativity">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Assad+Khurshid!+%F0%9F%91%8B;Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Open+to+Collaboration!">
 </h1>
 
-<!-- 🌊 Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4FC3F7&height=200&section=header&text=Assad%20Khurshid&fontSize=48&fontColor=FFFFFF" />
-</p>
-
----
-
-### 🧠 Who Am I?
-I’m a **Python-based AI Developer** with expertise in:
-- 🧬 Predictive Analytics
-- 🎨 Generative AI & Image Synthesis
-- ⚡ Energy Forecasting for Smart Grids
-- 🚀 Deep Learning, Optimization, and Model Deployment
-
-I'm passionate about turning complex problems into smart, scalable solutions using code, data, and design.
-
----
-
-### 🚧 Featured Projects
-
-#### 🔹 **⚡ Energy Load Forecasting**
-> Adaptive time-series prediction for smart grids  
-- Models: `SARIMA`, `Prophet`, `LSTM`  
-- Focus: **Real-time, distributed energy optimization**
-
-#### 🔹 **🎨 Generative AI for Product Design**
-> AI-generated 2D/3D prototypes for industrial workflows  
-- Tools: `Diffusion Models`, `StyleGAN`, `ControlNet`  
-- Pipeline: CAD integration for rapid iteration
-
----
-
-### 💼 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikit-learn,fastapi,sql,docker,aws,azure,linux,opencv,figma,git,github" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssadKhurshid&show_icons=true&theme=gradient&hide_border=true&bg_color=0F172A&title_color=4FC3F7&text_color=E0F2F1&icon_color=4FC3F7" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AssadKhurshid&theme=dark&background=0F172A&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="420" />
-</p>
-
----
-
-### 🧭 Learning Journey
-- Transformers & Attention Models
-- Model Serving (Docker, FastAPI)
-- GenAI for real-world creative tasks
-- Advanced Time-Series Forecasting
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:assadkhurshid91@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AssadKhurshid">
-    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Assad%20Khurshid&fontSize=50&fontColor=FFFFFF" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AssadKhurshid.AssadKhurshid" />
-  <img src="https://img.shields.io/github/followers/AssadKhurshid?label=Follow&style=social" />
+  <em>"Harnessing AI to decode data, predict outcomes, drive smart solutions!"</em>
 </p>
 
-<!-- Footer Banner -->
+---
+
+## 🚀 About Me  
+I am a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
+I develop AI-driven models for predictive analytics, image recognition, and anomaly detection using **TensorFlow** and **PyTorch**.  
+
+🔎 I love solving complex problems using data and am passionate about **emerging technologies**!  
+⚡ Currently contributing to projects in **Energy Load Forecasting for Smart Grids** and **Generative AI for Industrial Design Prototyping**.
+
+---
+
+## 🔭 Current Projects  
+### 🔹 Energy Load Forecasting for Smart Grids
+- Enhancing grid reliability through short- and long-term time series forecasting of electricity demand.
+- Using models like SARIMA, Prophet, and LSTM for adaptive, real-time prediction in decentralized energy systems.
+
+### 🔹 Generative AI for Industrial Design Prototyping  
+- Applying Diffusion Models and StyleGAN to automate and accelerate industrial product design workflows.
+- Integrating AI-generated 3D prototypes into CAD pipelines for rapid ideation and iteration.
+
+---
+
+## 🛠️ Skills & Technologies  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0F172A&height=160&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pyomo-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+---
+
+## 📚 Learning & Growth  
+- Advanced AI techniques: **Neural Networks**, **Random Forest**, **XGBoost**, and **LSTM**.  
+- Cloud infrastructure for scalable model deployment.
+
+---
+
+
+## 🌐 Connect with Me  
+<p align="center">
+    <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+    <a href="https://github.com/AssadKhurshid">
+        <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white" />
+    </a>
+    <a href="mailto:assadkhurshid91@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AssadKhurshid.AssadKhurshid" alt="Visitors">
+    <img src="https://img.shields.io/github/followers/AssadKhurshid?label=Follow&style=social" alt="GitHub Followers">
+</p>
+
+---
+
+<div style="display: flex; justify-content: bottom; align-items: bottom; height: 100vh;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:36BCF7&height=200&section=footer&text=Danke%20schön&fontSize=50&fontColor=FFFFFF&textalignd=bottom"/>
+</div>
