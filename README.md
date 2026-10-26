@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Assad Khurshid, Computer Vision Engineer: aerial imagery, building detection, edge AI">
+  <a href="https://www.linkedin.com/in/assad-khurshid-datascientist/"><img src="assets/header.svg" width="100%" alt="Assad Khurshid, Computer Vision Engineer: aerial imagery, building detection, edge AI"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/assad-khurshid-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://assadkhurshid.me"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:assadkhurshid91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=AssadKhurshid&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" alt="Profile views">
@@ -13,16 +13,21 @@ I build computer vision systems that work on real data and run outside a noteboo
 
 ## Now
 
-<img src="assets/now.svg" width="100%" alt="Fraunhofer IEE: building classification. BTU MeReVeS: edge video benchmarking. Master's thesis: building detection from above. 365 Build Log: one unit of work every day.">
+| | Role | What I work on |
+| :---: | --- | --- |
+| 🏢 | **Working student · Fraunhofer IEE** | Building classification from aerial imagery across Bavaria |
+| ⚡ | **HiWi · BTU MeReVeS** | Power and performance benchmarking of video workloads on an NXP i.MX8M Plus |
+| 🎓 | **Master's thesis · BTU Cottbus-Senftenberg** | AI-supported building detection and classification from aerial imagery |
+| 📅 | **365 Build Log** | One real unit of work every day, Oct 2026 → Oct 2027 (live progress below) |
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/AssadKhurshid/yolo-video-analytics"><img src="assets/card-yolo-video-analytics.svg" width="49%" alt="yolo-video-analytics: line counting and zone occupancy (in progress)"></a>
-  <img src="assets/card-aerial-building-segmentation.svg" width="49%" alt="aerial-building-segmentation: starts Dec 2026">
-  <img src="assets/card-geo-agent.svg" width="49%" alt="geo-agent: planned, spring 2027">
-  <img src="assets/card-edge-vision-benchmark.svg" width="49%" alt="edge-vision-benchmark: planned, summer 2027">
-</p>
+| Project | Area | What it does | Status |
+| --- | --- | --- | --- |
+| [**yolo-video-analytics**](https://github.com/AssadKhurshid/yolo-video-analytics) | Computer Vision | Detection + tracking for line counting and zone occupancy, as a CLI and an API | ![In progress](https://img.shields.io/badge/in%20progress-F97316?style=flat-square) |
+| **aerial-building-segmentation** | Computer Vision | Building footprints from open aerial imagery, exported as GeoJSON | ![Starts Dec 2026](https://img.shields.io/badge/starts-Dec%202026-6E857B?style=flat-square) |
+| **geo-agent** | Agentic AI | LLM agent that calls my segmentation model as a tool to answer map questions | ![Spring 2027](https://img.shields.io/badge/planned-spring%202027-6E857B?style=flat-square) |
+| **edge-vision-benchmark** | Edge AI | FP32 vs INT8 ONNX on small hardware: latency, size and accuracy | ![Summer 2027](https://img.shields.io/badge/planned-summer%202027-6E857B?style=flat-square) |
 
 ## Tech
 
