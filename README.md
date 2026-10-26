@@ -1,57 +1,48 @@
-<h1 align="center">Assad Khurshid</h1>
-
 <p align="center">
-  <b>Computer Vision Engineer</b> · aerial imagery · building detection · edge AI<br>
-  M.Sc. Artificial Intelligence @ BTU Cottbus-Senftenberg · Working student @ Fraunhofer IEE
+  <img src="assets/header.svg" width="100%" alt="Assad Khurshid, Computer Vision Engineer: aerial imagery, building detection, edge AI">
 </p>
 
 <p align="center">
-  <a href="https://assadkhurshid.me">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/">LinkedIn</a> ·
-  <a href="mailto:assadkhurshid91@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/assad-khurshid-computer-vision-expert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://assadkhurshid.me"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:assadkhurshid91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=AssadKhurshid&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" alt="Profile views">
 </p>
-
----
 
 I build computer vision systems that work on real data and run outside a notebook: finding and classifying buildings from above, and making models fast enough for small hardware.
 
 ## Now
 
-| Where | What |
-| --- | --- |
-| **Fraunhofer IEE** | Building classification from aerial imagery (Bavaria) |
-| **BTU · MeReVeS** | Power and performance benchmarking of video workloads on an embedded NXP i.MX8M Plus |
-| **Master's thesis** | AI-supported building detection and classification from aerial imagery |
-| **365 Build Log** | One real unit of work every day, Oct 2026 → Oct 2027 |
+<img src="assets/now.svg" width="100%" alt="Fraunhofer IEE: building classification. BTU MeReVeS: edge video benchmarking. Master's thesis: building detection from above. 365 Build Log: one unit of work every day.">
 
 ## Projects
 
-| Project | Area | What it does | Status |
-| --- | --- | --- | --- |
-| [yolo-video-analytics](https://github.com/AssadKhurshid/yolo-video-analytics) | Computer Vision | Detection + tracking for line counting and zone occupancy, as CLI and API | In progress |
-| aerial-building-segmentation | Computer Vision | Building footprints from open aerial imagery, exported as GeoJSON | Starts Dec 2026 |
-| geo-agent | Agentic AI | LLM agent that calls my segmentation model as a tool to answer map questions | Planned · spring 2027 |
-
-<!-- When a project ships, add its link and replace Status with its headline result, e.g. "IoU 0.81 on held-out city". -->
-
-## Tools
-
-**Vision:** PyTorch · Ultralytics YOLO · OpenCV · segmentation-models-pytorch · rasterio / GeoPandas
-**Deployment:** ONNX Runtime · Docker · FastAPI · GitHub Actions
-**Data:** Python · pandas · scikit-learn · SQL
-
-## Streak
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AssadKhurshid&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950">
-    <img alt="Assad's GitHub contribution streak" src="https://streak-stats.demolab.com?user=AssadKhurshid&theme=default&hide_border=true&ring=2F9467&fire=2F9467&currStreakLabel=2F9467">
-  </picture>
+  <a href="https://github.com/AssadKhurshid/yolo-video-analytics"><img src="assets/card-yolo-video-analytics.svg" width="49%" alt="yolo-video-analytics: line counting and zone occupancy (in progress)"></a>
+  <img src="assets/card-aerial-building-segmentation.svg" width="49%" alt="aerial-building-segmentation: starts Dec 2026">
+  <img src="assets/card-geo-agent.svg" width="49%" alt="geo-agent: planned, spring 2027">
+  <img src="assets/card-edge-vision-benchmark.svg" width="49%" alt="edge-vision-benchmark: planned, summer 2027">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AssadKhurshid&bg_color=0D1117&color=C9D1D9&line=3FB950&point=C9D1D9&area=true&hide_border=true">
-    <img alt="Assad's GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AssadKhurshid&bg_color=FFFFFF&color=24292F&line=2F9467&point=24292F&area=true&hide_border=true">
-  </picture>
+## Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
+
+## 365 Build Log
+
+<img src="assets/streak.svg" width="100%" alt="Contribution streak and 365 Build Log progress">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <img src="assets/snake.svg" width="100%" alt="Contribution graph eaten by a snake">
+</picture>
