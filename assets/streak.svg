@@ -18,7 +18,7 @@
 </g>
 <line x1="400" y1="40" x2="400" y2="150" stroke="#1f2e29"/><line x1="800" y1="40" x2="800" y2="150" stroke="#1f2e29"/>
 <text x="48" y="214" font-family="'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.2" fill="#f97316">365 BUILD LOG</text>
-<text x="1152" y="214" text-anchor="end" font-family="'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3b5ad">day 2 / 365 · 2 active days</text>
+<text x="1152" y="214" text-anchor="end" font-family="'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3b5ad">day 3 / 365 · 2 active days</text>
 <rect x="48" y="224" width="1104" height="6" rx="3" fill="#1f2e29"/>
-<rect x="48" y="224" width="6" height="6" rx="3" fill="#3fb950"/>
+<rect x="48" y="224" width="9" height="6" rx="3" fill="#3fb950"/>
 </svg>
