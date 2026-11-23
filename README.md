@@ -24,7 +24,7 @@ I build computer vision systems that work on real data and run outside a noteboo
 
 | Project | Area | What it does | Status |
 | --- | --- | --- | --- |
-| [**yolo-video-analytics**](https://github.com/AssadKhurshid/yolo-video-analytics) | Computer Vision | Detection + tracking for line counting and zone occupancy, as a CLI and an API | ![In progress](https://img.shields.io/badge/in%20progress-F97316?style=flat-square) |
+| [**yolo-video-analytics**](https://github.com/AssadKhurshid/yolo-video-analytics) | Computer Vision | Detection + tracking for line counting and zone occupancy, as a CLI, an API and a Docker image | ![Done](https://img.shields.io/badge/done-22C55E?style=flat-square) |
 | **aerial-building-segmentation** | Computer Vision | Building footprints from open aerial imagery, exported as GeoJSON | ![Starts Dec 2026](https://img.shields.io/badge/starts-Dec%202026-6E857B?style=flat-square) |
 | **geo-agent** | Agentic AI | LLM agent that calls my segmentation model as a tool to answer map questions | ![Spring 2027](https://img.shields.io/badge/planned-spring%202027-6E857B?style=flat-square) |
 | **edge-vision-benchmark** | Edge AI | FP32 vs INT8 ONNX on small hardware: latency, size and accuracy | ![Summer 2027](https://img.shields.io/badge/planned-summer%202027-6E857B?style=flat-square) |
